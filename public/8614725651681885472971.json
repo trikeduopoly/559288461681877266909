@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395826167351",
+    "project_id": "kay-mod-master",
+    "storage_bucket": "kay-mod-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395826167351:android:2343f1d2ead52c415909b2",
+        "android_client_info": {
+          "package_name": "com.theskinsfor.minecrafters.addonsmaps.mastercraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395826167351-lnq3eur3omv50gnd1ae4j723knivr2bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIe34LwGD6fbQV5wrVsOnokUxMk68Cn3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395826167351-lnq3eur3omv50gnd1ae4j723knivr2bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
